@@ -64,8 +64,6 @@ It leverages the following components from the Jetpack library:
 ### Screenshots
 
 ![Screenshot 1](/Mars%20Real%20Estate/screenshots/screen_1.png)
-![Screenshot 2](/Mars%20Real%20Estate/screenshots/screen_2.png)
-![Screenshot 3](/Mars%20Real%20Estate/screenshots/screen_3.png)
 
 
 ## RecyclerViewExample
@@ -99,8 +97,6 @@ It also uses and builds on the following techniques from previous lessons:
 ### Screenshots
 
 ![Screenshot1](/SleepTracker/screenshots/sleep_quality_tracker_start.png)
-![Screenshot2](/SleepTracker/screenshots/sleep_quality_tracker_stop.png)
-![Screenshot3](/SleepTracker/screenshots/sleep_quality_tracker_quality.png)
 
 
 ## Trivia App
